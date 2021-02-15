@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 't#@=c1h0^wb!t^m9x0hsv+i8!d=dn)cuzd%kf5mf^#(c6-i*32'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = 
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
 
